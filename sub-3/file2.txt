@@ -1,1 +1,2 @@
 This is a file in sub-3 and written before first commit.
+This was written in the feature branch after the first commit in the feature branch
