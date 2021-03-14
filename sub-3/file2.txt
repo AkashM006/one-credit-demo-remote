@@ -1,2 +1,4 @@
 This is a file in sub-3 and written before first commit.
 This was written in the feature branch after the first commit in the feature branch
+
+This is the only text that is going to differentiate the master branch from the feature branch for testing pull request
