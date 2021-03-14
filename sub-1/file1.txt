@@ -1,0 +1,1 @@
+This is a text file in sub-1 and this was written before the first commit.
